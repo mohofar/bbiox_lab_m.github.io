@@ -1,1 +1,5 @@
-...
+- **Tay, E., Zadpoor, A. A., & Tümer, N. (2025).** *Towards growth-accommodating deep learning-based semantic segmentation of pediatric hand phalanges*. *Biomedical Signal Processing and Control, 102*, 107338. https://doi.org/10.1016/j.bspc.2025.107338 *Introduces a deep learning approach for segmenting pediatric hand phalanges, accommodating growth variations to enhance diagnostic accuracy.*
+
+- **Tay, E., Tümer, N., & Zadpoor, A. A. (2025).** *Shape modeling of longitudinal medical images: From diffeomorphic metric mapping to deep learning*. *arXiv*. https://arxiv.org/abs/2503.21489 *Explores methodologies for modeling shape changes in longitudinal medical imaging, comparing traditional diffeomorphic mapping with deep learning techniques.*
+
+- **Homayounfar, M., Bierma-Zeinstra, S., Zadpoor, A. A., & Tümer, N. (2025).** *Pedvision: A manual-annotation-free and age scalable segmentation pipeline for bone analysis in hand X-ray images*. *SSRN*. https://doi.org/10.2139/ssrn.5050535 *Presents Pedvision, a pipeline enabling bone analysis in hand X-rays without manual annotations, adaptable across different pediatric age groups.*
